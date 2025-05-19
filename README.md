@@ -3,7 +3,7 @@
 **SarahDar/SarahDar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Where you teach 
-I am a CS major turned computer science learning designer
+I am a CS major turned UI/UX Designer + Frontend Developer
 ### First “tech” you owned 
 A microscope
 ### Hometown 
@@ -42,10 +42,5 @@ Here's the link to my [portfolio website](https://www.sarahdar.com/)
 Also here's a picture of me saying hi to my best friend, Vin Diesel
 ![hey](SarahDar/SarahDar/IMG_0979 copy.jpg)
 
-H
-Table
-Image
-
-Checkboxes
 
 
