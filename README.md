@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**SarahDar/SarahDar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**/SarahDar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Where you teach 
 I am a CS major turned UI/UX Designer + Frontend Developer
